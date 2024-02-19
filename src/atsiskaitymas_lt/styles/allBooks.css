@@ -1,0 +1,31 @@
+.book-list {
+    background-color: rgba(211, 162, 196, 0.3);
+    padding: 2rem;
+    margin: 1rem;
+  }
+  
+  .book-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 5px;
+  }
+  
+  .book-card-div {
+    background-color: rgba(211, 162, 196, 0.5);
+    text-align: center;
+    font-weight: 700;
+    padding: 0.5rem;
+    
+  }
+  
+  .book-card-div img {
+    width: 280px;
+    height: 280px;
+    object-fit: contain;
+  }
+  
+  .link-to-book {
+    text-decoration: none;
+    color: black;
+  }
+  

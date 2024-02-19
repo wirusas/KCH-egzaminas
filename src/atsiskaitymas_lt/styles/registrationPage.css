@@ -1,0 +1,29 @@
+.registration-form-local {
+    margin: 4rem auto;
+    text-align: center;
+    background-color: rgba(211, 162, 196, 0.6);
+    padding: 2rem;
+    text-align: left;
+    width: 350px;
+    box-shadow: 0px 0px 50px rgb(211, 162, 196);
+    border-radius: 10px;
+  }
+  
+  .registration-form-local p,
+  .registration-form-local input,
+  .registration-form-local select,
+  .registration-form-local button {
+    font-weight: 600;
+    margin: 0.2rem;
+    text-align: left;
+  }
+  
+  .registration-form-local button {
+    background-color: rgb(211, 162, 196);
+    margin-top: 1rem;
+    text-align: center;
+  width: 10ch;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px rgb(86, 24, 67);
+  }
+  

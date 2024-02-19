@@ -1,0 +1,31 @@
+/* MAIN DIV FOOTER */
+
+.main-footer-div-local {
+    width: 98vw;
+    margin: 0 auto;
+    box-shadow: 0 1px 4px #92a1b026;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* FOOTER LOGO */
+  
+  .contact-info a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .contact-info p {
+    margin-bottom: -3px;
+  }
+  
+  .social-icons-local img {
+    width: 60px;
+    height: 60 px;
+    border-radius: 50%;
+    display: inline;
+    margin: 0.5rem;
+  }
+  
